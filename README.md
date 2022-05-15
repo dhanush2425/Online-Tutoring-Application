@@ -1,3 +1,3 @@
 # Online-Tutoring-Application
 
-Web Prograaming Language Final Project
+Web Programming Language Final Project
